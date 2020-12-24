@@ -27,7 +27,21 @@
 
 [اطلاعات بیشتر](https://docs.unity3d.com/560/Documentation/Manual/android-gradle-overview.html)
 
-در این مرحله کار تمام است و شما می توانید خروجی نهایی را بگیرید. 
+
+در این مرحله کار تمام است و شما می توانید خروجی نهایی را بگیرید.
+
+
+ ،قبل از بسته شدن برنامه یونیتی
+خروجی نهایی در این مکان قرار می گیرد
+
+unity 5.6\Temp\gradleOut\build\outputs\apk
+
+
+FileNotFoundException: Temp\gradleOut\build\outputs\apk\gradleOut-release.apk does not exist
+System.IO.File.Move (System.String sourceFileName, System.String destFileName) (at
+
+
+ 
 
 ## دانلود پروژه کامل
 
