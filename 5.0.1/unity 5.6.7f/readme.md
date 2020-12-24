@@ -13,7 +13,7 @@
 ## گام دوم
  پکیج
 
-[Unity_5.6.7f1_package_example](https://github.com/cheshmak/UNITY/blob/main/1.4.5/exmples/Unity%205.6.7f1/method%201/Unity_5.6.7f1_package_example.zip)
+[Unity_5.6.7f1_package_example](https://github.com/cheshmak/UNITY/blob/main/5.0.1/unity%205.6.7f/examples/cheshmak_Unity_Plus_Ads_Example_5.0.1_v1(5.6.7).zip)
 
 دانلودکنید، از حالت فشرده خارج کنید و در یک پروژه جدید، ایمپورت کنید
 
@@ -31,7 +31,7 @@
 
 ## دانلود پروژه کامل
 
-[دانلود](https://github.com/cheshmak/UNITY/blob/main/1.4.5/exmples/Unity%205.6.7f1/method%201/unity_5.6_full_project_example.rar)
+[دانلود](https://github.com/cheshmak/UNITY/blob/main/5.0.1/unity%205.6.7f/examples/Full_project_with_ads/Ads%20example.rar)
 
 ## اطلاعات بیشتر
 
